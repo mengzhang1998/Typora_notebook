@@ -1,0 +1,15 @@
+# lda
+
+![image-20230219183913261](../assets/lda/image-20230219183913261.png)
+
+![image-20230219184029014](../assets/lda/image-20230219184029014.png)
+
+![image-20230219184245813](../assets/lda/image-20230219184245813.png)
+
+  
+
+![image-20230219191638638](../assets/lda/image-20230219191638638.png)
+
+![image-20230219195603098](../assets/lda/image-20230219195603098.png)
+
+![image-20230219200146614](../assets/lda/image-20230219200146614.png)

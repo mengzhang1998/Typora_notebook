@@ -1,0 +1,29 @@
+# PSM
+
+## 一、基本原理
+
+
+
+![image-20230216123219806](../assets/PSM/image-20230216123219806.png)
+
+
+
+![image-20230216223021170](../assets/PSM/image-20230216223021170.png)
+
+![image-20230216224304849](../assets/PSM/image-20230216224304849.png)
+
+![image-20230216230831756](../assets/PSM/image-20230216230831756.png)
+
+![image-20230216232018835](../assets/PSM/image-20230216232018835.png)
+
+![image-20230216232309963](../assets/PSM/image-20230216232309963.png)
+
+![image-20230216232610319](../assets/PSM/image-20230216232610319.png)
+
+![image-20230216233332757](../assets/PSM/image-20230216233332757.png)
+
+![image-20230216233952482](../assets/PSM/image-20230216233952482.png)
+
+![image-20230216234411740](../assets/PSM/image-20230216234411740.png)
+
+![image-20230217145507199](../assets/PSM/image-20230217145507199.png)
